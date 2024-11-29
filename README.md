@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">Curious IT student, invested in a variety of domains, from frontend design to backend problem-solving</h3>
+<h3 align="center">Curious IT developer, skilled in a variety of domains, from frontend design to backend problem-solving</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonypr93&title=Commits,Repositories,Experience,Followers&row=1&column=4" alt="tonypr93" /></a> </p>
 
-<p align="center">🔭 I’m currently working on <a href="https://www.freecodecamp.org/learn/data-visualization/" target="_blank"> D3 freeCodeCamp Certification</a></p>
+<p align="center">🔭 I’m currently working on <a href="https://education.oracle.com/ouexam-pexam_1z0-830/pexam_1Z0-830" target="_blank"> Oracle Certified Professional: Java SE 21 Developer </a></p>
 
-<p align="center">🌱 I’m currently learning <strong><i>Spring, D3, React</i></strong></p>
+<p align="center">🌱 I’m currently learning <strong><i>more about Java and React</i></strong> and beginning to explore <strong><i>DevOps methodologies</i></strong>.</p>
 
 <p align="center">📫 How to reach me <a href="mailto:anthonypanont@gmail.com"><strong>anthonypanont@gmail.com</strong></a></p>
 
@@ -20,7 +20,6 @@
     <td align="center">
       <h3>Programming languages:</h3>
       <p> 
-        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
         <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
         <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> 
@@ -31,7 +30,6 @@
       <p> 
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  
-        <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
         <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a> 
@@ -42,7 +40,6 @@
       <p> 
         <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
         <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> 
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> 
       </p>
     </td>
   </tr>
